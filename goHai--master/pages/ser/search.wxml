@@ -1,0 +1,3 @@
+<view class="scan-view">
+  <image bindtap='scanCode' class='scan-img' src="{{imgSrc}}"></image>
+</view>
